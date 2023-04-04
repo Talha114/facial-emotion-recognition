@@ -1,6 +1,6 @@
-# facial-emotion-recognition
+# Facial Emotion Recognition (FER)
 
-Results:
+## Results:
 
 ![fer0](https://user-images.githubusercontent.com/88310782/229899733-208ac579-08e6-4c43-9aa3-6cbe0593153a.png)
  
