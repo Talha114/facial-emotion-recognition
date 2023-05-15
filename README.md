@@ -100,3 +100,7 @@ The epoch’s history shows that accuracy gradually increases and achieves ~70% 
 Plotting the distribution of training and validation metrics:
 
 ![fer2](https://user-images.githubusercontent.com/88310782/229899862-71be6a07-5616-46a5-8d86-66391429825e.png)
+
+## Acknowledgments
+
+- This project was inspired by [(https://medium.com/analytics-vidhya/facial-emotion-recognition-fer-using-keras-763df7946a64 )] on Facial Emotion Recognition.
